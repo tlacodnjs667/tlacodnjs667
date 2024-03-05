@@ -2,12 +2,17 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&&color=timeAuto&customColorList=0,2,4,6,8,7,8,8&height=190&text=Bienvenidos-nl-wooruk's%20Repo&fontSize=80)
 
 <div style="align-items: center">
-<hr>
-<h2>I use..</h2>
+<h2>Intro</h2>
+<h3>Backend Engineer</h3>
+  <ul>
+    <li>Spring, Spring Boot 기반 백엔드 개발자</li>
+    <li>기능 명세를 명확하게 구현하는 개발자가 되겠습니다.</li>
+  </ul>
+
+<h2>Stack</h2>
 <h3>Language</h3>
-<a style="margin-right: 3px" href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?&logo=javascript&logoColor=white"/></a>
-<a style="margin-right: 3px" href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Java-3333FF?style=flat-square&logo=Java&logoColor=white"/></a>
-<a style="margin-right: 3px"  href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlacodnjs667&layout=compact&hide=GLSL,Shell,CSS,Astro,Rust,Go)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Framework</h3>
 <a style="margin-right: 3px" href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=&logo=Express&logoColor=white"/></a>
@@ -21,10 +26,6 @@
 <a style="margin-right: 3px" href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/IntelliJ Idea-007bff?style=&logo=IntelliJ Idea&logoColor=whitewhite"/></a>
 
 <hr>
-
-<h3>Languages</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlacodnjs667&layout=compact&hide=GLSL,Shell,CSS,Astro,Rust,Go)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3>A+까지 레츠고!</h3>
