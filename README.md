@@ -15,6 +15,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlacodnjs667&layout=compact&hide=GLSL,Shell,CSS,Astro,Rust,Go)](https://github.com/anuraghazra/github-readme-stats)
 
+<h3>DB</h3>
+Oracle, Mysql
+
 <h3>Framework</h3>
 <a style="margin-right: 3px" href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=&logo=Express&logoColor=white"/></a>
 <a style="margin-right: 3px" href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/spring-default?style=&logo=spring&logoColor=white"/></a>
@@ -25,6 +28,9 @@
 <a style="margin-right: 3px" href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Trello-0052CC?style=&logo=trello&logoColor=whitewhite"/></a>
 <a style="margin-right: 3px" href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=&logo=notion&logoColor=whitewhite"/></a>
 <a style="margin-right: 3px" href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/IntelliJ Idea-007bff?style=&logo=IntelliJ Idea&logoColor=whitewhite"/></a>
+
+<h3>Infra</h3>
+IAM, VPC, EC2, RDS, S3, Route53
 
 <hr>
 
