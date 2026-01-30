@@ -2,7 +2,7 @@
  ✅ PROFILE README (Resume-style)
  ✅ 사용법:
  1) [PLACEHOLDER] 블록은 나중에 통째로 삭제하면 됨
- 2) 주석(<!-- ... -->)은 GitHub에서 안 보임
+ 2) 주석()은 GitHub에서 안 보임
 ========================================================= -->
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=timeAuto&height=200&section=header&text=Wooruk%20%7C%20Backend%20Engineer&fontSize=60&desc=Spring%20Boot%20%7C%20API%20%7C%20DB%20%7C%20AWS&descSize=20&descAlignY=75)
