@@ -13,7 +13,7 @@
  [PLACEHOLDER: 링크/연락처]
  - 포폴/이메일/블로그 링크 바꾸고 싶으면 여기만 수정
  - 나중에 통째로 삭제해도 OK
-========================
+========================= -->
 <a href="https://github.com/tlacodnjs667" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </a>
@@ -111,4 +111,3 @@
 <!-- 나중에 바꾸기 쉬우라고 맨 아래도 따로 둠 -->
 - Email: yourmail@example.com  
 - Portfolio: (노션/블로그 링크)  
-= -->
